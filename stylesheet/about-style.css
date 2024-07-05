@@ -146,6 +146,12 @@ body {
         text-indent: 50px;
     }
 
+    .image-ball {
+        position: relative;
+        left: 40%;
+        margin-bottom: 100px;
+    }
+
 }
 
 /* Responsive styles for widths between 501px and 1080px */
